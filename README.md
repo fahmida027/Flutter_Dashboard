@@ -9,14 +9,6 @@ A new Flutter project.
 ## Project Overview
 This project is a starting point for a Flutter application representing a dashboard.
 
-### **2️⃣ Installation**
-Clone the repository and run the project:
-
-```sh
-git clone https://github.com/fahmida027/Flutter_Dashboard.git
-cd Flutter_Dashboard
-flutter pub get
-flutter run
 
 ## A few resources to get you started if this is your first Flutter project:
 
@@ -26,3 +18,12 @@ flutter run
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### **Installation**
+Clone the repository and run the project:
+
+```sh
+git clone https://github.com/fahmida027/Flutter_Dashboard.git
+cd Flutter_Dashboard
+flutter pub get
+flutter run
